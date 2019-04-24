@@ -13,6 +13,7 @@
 * 2x 270 Ohm Metallschichtwiderstand, 0.6Watt, 1% Toleranz
 * 1x 33 Ohm Metallschichtwiderstand, 0.6Watt, 1% Toleranz
 * 2x SMD-Widerstand, 1206, 56 Ohm, 250 mW, 1%
+* 1x SMD-Widerstand, 1206, 4,7 kOhm, 250 mW, 1%
 * 1x 220 Ohm Metallschichtwiderstand, mindestens 0.6Watt, 1% Toleranz
 * 2x 10 kOhm Metallschichtwiderstand, 0.6Watt, 1% Toleranz
 * 2x IRLML 2402 (MOSFET, N-CH, 20V, 1,2A, 0,54W, SOT-23)
